@@ -6,3 +6,4 @@ Adding links to view notebooks as static HTML using nbviewer
 * 
 * [Linear Regression](https://nbviewer.jupyter.org/github/harikm-uw/Python-for-Data-analysis-and-Machine-learning/blob/master/Linear_Regression_Project.ipynb)
 * [Logistic Regression](https://nbviewer.jupyter.org/github/harikm-uw/Python-for-Data-analysis-and-Machine-learning/blob/master/Logistic_Regression_Project.ipynb)
+* [K Nearest Neighbors](https://nbviewer.jupyter.org/github/harikm-uw/Python-for-Data-analysis-and-Machine-learning/blob/master/K_Nearest_Neighbors_Project.ipynb)
